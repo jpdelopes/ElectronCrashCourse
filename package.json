@@ -11,5 +11,16 @@
   "description": "",
   "devDependencies": {
     "electron": "^2.0.5"
-  }
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpdelopes/ElectronCrashCourse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jpdelopes/ElectronCrashCourse/issues"
+  },
+  "homepage": "https://github.com/jpdelopes/ElectronCrashCourse#readme"
 }
